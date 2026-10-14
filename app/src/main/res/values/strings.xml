@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="login_title">Quản lý chi tiêu</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="label_username">Tên đăng nhập</string>
+    <string name="hint_username">Nhập tên đăng nhập</string>
+    <string name="label_password">Mật khẩu</string>
+    <string name="hint_password">••••••</string>
+    <string name="error_login">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="sample_account_hint">Tài khoản mẫu: admin / 123456</string>
+
+    <string name="total_spent_label">Tổng số tiền đã chi</string>
+    <string name="expense_list_title">Danh sách khoản chi</string>
+    <string name="click_item_hint">(nhấn vào một khoản chi để xem chi tiết)</string>
+    <string name="btn_add_expense">+ Thêm khoản chi</string>
+    <string name="empty_expense_list">Chưa có khoản chi nào</string>
+
+    <string name="title_add_expense">Thêm khoản chi</string>
+    <string name="label_expense_title">Tên khoản chi</string>
+    <string name="hint_expense_title">Ví dụ: Ăn trưa</string>
+    <string name="label_expense_amount">Số tiền (VNĐ)</string>
+    <string name="hint_expense_amount">Chỉ nhập số, ví dụ: 45000</string>
+    <string name="label_category">Danh mục</string>
+    <string name="label_expense_date">Ngày chi tiêu</string>
+    <string name="label_note">Ghi chú</string>
+    <string name="hint_note">Nhập ghi chú (nhiều dòng)&#8230;</string>
+    <string name="btn_save_expense">Lưu khoản chi</string>
+
+    <string name="title_expense_detail">Chi tiết khoản chi</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete_expense">Xóa khoản chi</string>
+</resources>
